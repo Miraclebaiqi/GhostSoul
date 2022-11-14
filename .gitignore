@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#MiracleKK's ignore
+.idea/*
+Plugins/Developer/*
+Content/Collections/*
+Content/Developers/*
